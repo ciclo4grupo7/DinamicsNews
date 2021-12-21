@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600168358036",
+    "project_id": "dynamicsnews-1da3a",
+    "storage_bucket": "dynamicsnews-1da3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600168358036:android:45f9dcf9797a0dcb841481",
+        "android_client_info": {
+          "package_name": "com.example.dynamics_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600168358036-12futhcnlh084d9uvkdt02dnhlailnct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dynamics_news",
+            "certificate_hash": "b730998c6af9d89d84f114ccf60ec17aa940c779"
+          }
+        },
+        {
+          "client_id": "600168358036-4qlsi9vd36q7mgfoiok1lhevcqe6hjcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB00C2JfYq8OMsutDtbI6EczsQcM0qttWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600168358036-4qlsi9vd36q7mgfoiok1lhevcqe6hjcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
